@@ -1,1 +1,2 @@
-# csci3308lab3
+Ethan Fellows
+Lab 04: Git
